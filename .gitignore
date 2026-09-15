@@ -1,0 +1,15 @@
+#含有敏感个人信息
+Resume_Personal_info_filled.py
+Resources/photo.jpg
+Resources/Kimjong-un.jpg
+
+output/
+
+# Python 项目通用忽略规则（之前已配置的可保留）
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+#其他文件过滤
+*.svg
